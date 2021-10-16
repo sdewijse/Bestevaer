@@ -5,7 +5,10 @@
 </head>
 
 <body>
-<div>Hello world!</div>
+<div>
+    Hello world!
+    Time to test remote access!
+</div>
 </body>
 
 </html>
