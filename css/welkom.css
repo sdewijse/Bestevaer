@@ -17,14 +17,8 @@ body{
     background-color: #6bb0ff;
 }
 
-.loginContent {
+.welkomContent {
     margin-top: 80px;
     text-align: center;
+    font-size: 50px;
 }
-
-.inlogTitel {
-    font-size: 30px;
-}
-
-
-

@@ -19,11 +19,11 @@
 <div class="loginContent">
     <form class="inloggen" action="php/login/login_connect.php" method="post">
         <div class="loginInhoud">
-            <p class="inlogTitel">Log in</p><br>
-            <label>Username</label><br>
-            <input required type="text" name="username" id="username" placeholder="username"/><br>
-            <label>Password</label><br>
-            <input required type="password" name="password" id="password" placeholder="password"/><br>
+            <p class="inlogTitel">Log in:</p><br>
+            <label>Gebruikersnaam:</label><br><br>
+            <input required type="text" name="username" id="username"/><br><br>
+            <label>Wachtwoord:</label><br><br>
+            <input required type="password" name="password" id="password"/><br>
         </div>
         <div class="button">
             <input type="submit" name="submit" value="Sign in" id="sign in">
